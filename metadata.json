@@ -1,0 +1,10 @@
+{
+  "name": "Smoothie Stock \u0026 Delivery UBU",
+  "description": "ระบบจัดการคลังสินค้าร้านน้ำปั่น สูตร BOM เตือนสต็อกอัจฉริยะ POS หน้าร้าน คิวปั่น KDS และจัดส่งรอบ ม.อุบล-วารินชำราบ",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
